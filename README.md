@@ -858,7 +858,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![SCIENTIC_CAL](https://github.com/gummadileepkumar/Scientific_Git/assets/118707761/ecf22600-c588-4afe-97c8-81b8f471eca0)
+![image](https://github.com/Sriram8452/Scientific_Git/assets/118708032/c5021112-8cab-42ce-9bcd-3ee4ce6c5c23)
+
 
 
 
